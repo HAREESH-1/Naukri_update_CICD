@@ -25,4 +25,4 @@ jobs:
 
       - name: Run Automation Script
         run: |
-          python your_script.py     # Replace with your actual test/automation script
+          python test_update_naukri.py     # Replace with your actual test/automation script
