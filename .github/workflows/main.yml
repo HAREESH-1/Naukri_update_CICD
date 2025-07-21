@@ -25,4 +25,4 @@ jobs:
 
       - name: Run Automation Script
         run: |
-          python test_update_naukri.py
+          pytest test_update_naukri.py
